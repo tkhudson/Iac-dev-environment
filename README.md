@@ -1,6 +1,6 @@
 # Iac-dev-environment
 
-Within this repo, you will find a custom built Infrastructure-as-Code dev environment made with Terraform in VSCode.
+Within this repo, you will find a custom built Infrastructure-as-Code dev environment made with Terraform in VSCode. The main file is called: "expedition_iac.tf"
 
 # Starting
 To start off, you first need to connect with Azure through Terraform. Access that here: https://registry.terraform.io/providers/hashicorp/azurerm/latest
